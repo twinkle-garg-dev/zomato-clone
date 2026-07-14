@@ -18,8 +18,6 @@
 
     <modules>
         <module>common-lib</module>
-<!--        <module>common-security</module>-->
-<!--        <module>common-exception</module>-->
     </modules>
 
 </project>
